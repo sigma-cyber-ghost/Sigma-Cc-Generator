@@ -22,6 +22,7 @@
 git clone https://github.com/sigma-cyber-ghost/Sigma-Cc-Generator.git
 cd Sigma-Cc-Generator
 pip3 install requests
+python3 sigma-generator.py
 ```
 
 # Generate 10 cards with BIN 414110:
