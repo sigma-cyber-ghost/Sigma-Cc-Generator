@@ -19,8 +19,8 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/sigma-cyber-ghost/sigma-black-hydra.git
-cd sigma-black-hydra
+git clone https://github.com/sigma-cyber-ghost/Sigma-Cc-Generator.git
+cd Sigma-Cc-Generator
 pip3 install requests
 ```
 
