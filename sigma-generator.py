@@ -50,7 +50,7 @@ BANNER = f"""{RED}{BOLD}
 🔗 {WHITE}YOUTUBE {RESET} : {CYAN}https://youtube.com/@sigma_ghost_hacking{RESET}
 🔗 {WHITE}TWITTER {RESET} : {CYAN}https://x.com/safderkhan0800_{RESET}
 ─────────────────────────────────────────────
-{RED}{BOLD}WARNING: For educational purposes only!{RESET}
+{RED}{BOLD}WARNING:Never Use For Educational Purposes Only!{RESET}
 """
 
 # ========== CTRL+C HANDLER ==========
@@ -88,8 +88,8 @@ def show_menu():
     clear_screen()
     print(BANNER)
     print(f"{CYAN}{BOLD}MAIN MENU:{RESET}")
-    print(f"  {GREEN}1{RESET} - Generate CCs")
-    print(f"  {GREEN}2{RESET} - Check CCs from file")
+    print(f"  {GREEN}1{RESET} - Generate CC")
+    print(f"  {GREEN}2{RESET} - Check CC from file")
     print(f"  {RED}0{RESET} - Exit\n")
 
 # ========== CARD GENERATOR ==========
