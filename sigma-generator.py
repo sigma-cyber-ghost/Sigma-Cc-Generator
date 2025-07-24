@@ -50,7 +50,7 @@ BANNER = f"""{RED}{BOLD}
 🔗 {WHITE}YOUTUBE {RESET} : {CYAN}https://youtube.com/@sigma_ghost_hacking{RESET}
 🔗 {WHITE}TWITTER {RESET} : {CYAN}https://x.com/safderkhan0800_{RESET}
 ─────────────────────────────────────────────
-{RED}{BOLD}WARNING:Never Use For Educational Purposes Only!{RESET}
+{YELLOW}{BOLD}WARNING:Never Use For Educational Purposes Only!{RESET}
 """
 
 # ========== CTRL+C HANDLER ==========
